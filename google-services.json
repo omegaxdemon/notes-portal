@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "618914416366",
+    "project_id": "daily-notes-cmsa",
+    "storage_bucket": "daily-notes-cmsa.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:618914416366:android:035bd79a68c2a7cae2d5ff",
+        "android_client_info": {
+          "package_name": "com.dc.dailynotescmsa"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC8MrxcajfcndOv5lRxENyj7_eTVeBRJno"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
